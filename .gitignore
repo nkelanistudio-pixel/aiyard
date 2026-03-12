@@ -1,0 +1,11 @@
+# Node and Next.js
+node_modules/
+.next/
+
+# Build files
+build/
+
+# Other development files
+.DS_Store
+*.log
+*.env
